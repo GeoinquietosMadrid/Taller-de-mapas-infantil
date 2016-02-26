@@ -146,14 +146,14 @@ niño además se llevó el primer mapa que habían dibujado y su globo terráque
 
 Referencias
 ===========
-..[1] http://www.gma.org/surfing/imaging/globe.html
-..[2] http://education.nationalgeographic.org/activity/investigating-map-projections/
-..[3] http://wiki.openstreetmap.org/wiki/Kids_workshop
-..[4] https://www.youtube.com/watch?v=i8iHj_O_ZNk
-..[5] https://www.youtube.com/watch?v=VKyFk_owUGE
-..[6] https://es.wikipedia.org/wiki/Sat%C3%A9lite_artificial
-..[7] https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica
-..[8] https://www.youtube.com/watch?v=7sC83j6vzjo
+(1) http://www.gma.org/surfing/imaging/globe.html
+(2) http://education.nationalgeographic.org/activity/investigating-map-projections/
+(3) http://wiki.openstreetmap.org/wiki/Kids_workshop
+(4) https://www.youtube.com/watch?v=i8iHj_O_ZNk
+(5) https://www.youtube.com/watch?v=VKyFk_owUGE
+(6) https://es.wikipedia.org/wiki/Sat%C3%A9lite_artificial
+(7) https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica
+(8) https://www.youtube.com/watch?v=7sC83j6vzjo
 
 
 Agradecimientos
